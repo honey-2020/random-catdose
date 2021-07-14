@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    font-family: 'Otomanopee One', sans-serif;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+#scontrino{
+    width: 384px;
+    padding: 20px;
+}
+p{
+    background-color: #E58C56;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+img{
+    border-radius: 50px;
+    border: 20px solid #E58C56;
+    max-width: 100%;
+}
+h1{
+ font-size: 30px;
+}
